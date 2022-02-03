@@ -1,0 +1,6 @@
+.Button {
+  margin-right: 5px;
+}
+.Button:last-child {
+  margin-right: 0px;
+}
